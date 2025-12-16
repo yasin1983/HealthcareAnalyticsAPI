@@ -35,12 +35,12 @@ curl -X POST http://127.0.0.1:5000/predict \
 ```
 
 ##📥 Example Response
-``
+```bash
 {
   "risk_prediction": "Diabetes",
   "probabilities": [0.14, 0.16, 0.23, 0.24, 0.12, 0.11]
 }
-``
+```
 ## 📂 Project Structure
 
 HealthcareAPI/
@@ -62,6 +62,7 @@ HealthcareAPI/
 
 ## 📜 License
 This project is licensed under the MIT License.
+
 
 
 

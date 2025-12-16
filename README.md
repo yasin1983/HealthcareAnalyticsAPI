@@ -43,7 +43,7 @@ curl -X POST http://127.0.0.1:5000/predict \
 }
 ```
 ## 📂 Project Structure
-
+``` bash
 HealthcareAPI/
 │
 ├── app.py                # Flask API entry point
@@ -52,7 +52,7 @@ HealthcareAPI/
 ├── static/               # Static files (CSS, JS)
 ├── templates/            # HTML templates for dashboard
 └── README.md             # Project documentation
-
+```
 
 ## 📈 Future Work
 - Integrate with Apache Spark for distributed data processing
@@ -63,6 +63,7 @@ HealthcareAPI/
 
 ## 📜 License
 This project is licensed under the MIT License.
+
 
 
 

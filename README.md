@@ -19,7 +19,8 @@ python app.py
 
 ##📤 Example Request
 
-``curl -X POST http://127.0.0.1:5000/predict \
+```bash
+curl -X POST http://127.0.0.1:5000/predict \
 -H "Content-Type: application/json" \
 -d '{
   "Age": 60,
@@ -31,7 +32,7 @@ python app.py
   "Test_Results": "Test1"
 }'
 
-``
+```
 
 ## 📥 Example Response
 ``
@@ -61,5 +62,6 @@ HealthcareAPI/
 
 ## 📜 License
 This project is licensed under the MIT License.
+
 
 

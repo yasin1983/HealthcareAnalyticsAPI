@@ -17,7 +17,7 @@ python app.py
 
 ```
 
-##📤 Example Request
+## 📤 Example Request
 
 ```bash
 curl -X POST http://127.0.0.1:5000/predict \
@@ -34,7 +34,7 @@ curl -X POST http://127.0.0.1:5000/predict \
 
 ```
 
-##📥 Example Response
+## 📥 Example Response
 
 ```bash
 {
@@ -63,6 +63,7 @@ HealthcareAPI/
 
 ## 📜 License
 This project is licensed under the MIT License.
+
 
 
 

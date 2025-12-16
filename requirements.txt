@@ -1,5 +1,15 @@
-flask
-pandas
-scikit-learn
-joblib
-requests
+# Core API
+flask==3.0.0
+pandas==2.2.0
+scikit-learn==1.4.0
+joblib==1.3.2
+
+# Visualization & Analysis
+matplotlib==3.8.2
+seaborn==0.13.2
+jupyter==1.0.0
+notebook==7.0.6
+
+# Optional Big Data / Extensions
+pyspark==3.5.0
+h5py==3.10.0
